@@ -2,7 +2,7 @@
 
 ## Student Registeration Form
 
-##Setup Database
+## Setting up Database
 
 ### Create A database girlscript
 ```
